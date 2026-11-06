@@ -1,0 +1,2 @@
+raw:
+  fraud_log: "data/raw/fraud_log.csv"
